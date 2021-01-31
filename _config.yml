@@ -2,7 +2,7 @@ title: Navya Sandadi # your name (or website title) here
 logo: "/images/DSC01573.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
-  <a href="https://www.linkedin.com/in/navyasandadi/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/navyasandadi/">View My LinkedIn Profile</a>  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
