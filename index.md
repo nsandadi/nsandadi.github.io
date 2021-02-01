@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-### [Airline Departure Delay Prediction](/W261_SP20_FINAL_PROJECT_TEAM20.ipynb)
+### [Airline Departure Delay Prediction](/airline_delay_pred.md)
 <img src="images/Delayed.jpg?raw=true" width="50%" height="50%"/>
 
 ---
