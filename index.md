@@ -2,7 +2,7 @@
 
 ---
 ### [Predicting Airline Departure Delays](/sample_page)
-<img src="images/Delayed.jpg?raw=true" width="200" height="40"/>
+<img src="images/Delayed.jpg?raw=true" width="800" height="800"/>
 
 ---
 ### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
