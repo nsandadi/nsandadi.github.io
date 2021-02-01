@@ -2,11 +2,11 @@
 
 ---
 ### [Predicting Airline Departure Delays](/sample_page)
-<img src="images/Delayed.jpg?raw=true" width="400" height="400"/>
+<img src="images/Delayed.jpg?raw=true" width="300" height="300"/>
 
 ---
 ### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
-<img src="images/Facial_Keypoints_Kaggle2.png?raw=true"/>
+<img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="300" height="300"/>
 
 ---
 ### [Bay Area Bike Share Analysis](http://example.com/)
