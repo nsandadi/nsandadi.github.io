@@ -1,19 +1,19 @@
-### Portfolio
+# Portfolio
 
 ---
-# [Predicting Airline Departure Delays](/sample_page)
+### [Predicting Airline Departure Delays](/sample_page)
 <img src="images/Delayed.jpg?raw=true"/>
 
 ---
-# [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
+### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
 <img src="images/Facial_Keypoints_Kaggle.png?raw=true"/>
 
 ---
-# [Bay Area Bike Share Analysis](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Bay Area Bike Share Analysis](http://example.com/)
+<img src="images/BikeShare.jpg?raw=true"/>
 
 ---
-# [Determinants of crime in North Carolina](http://example.com/)
+### [Determinants of crime in North Carolina](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
