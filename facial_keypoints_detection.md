@@ -22,5 +22,5 @@ However, there are a few challenges that come with augmentation:
 - Another challenge specific to facial keypoint detection is that the target values or landmarks also needs to change when an image is translated, (i.e.), if the image of a face is shifted by 3 pixels, the landmark coordinates of the eye, nose, etc. also need to be shifted.
 
 ### Reports:
-[1. Project Report](/pdf/w207_Facial_Keypt_Detection.pdf)
+[Project Report](/pdf/w207_Facial_Keypt_Detection.pdf)
 
