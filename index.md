@@ -19,7 +19,7 @@
 ---
 
 ### [Addressing research questions on 2018 Anes Pilot Survey](/pdf/Lab2-ComparingMeans.pdf)
-<img src="images/Linear_regression.png?raw=true" width="50%" height="50%"/>
+<img src="images/histogram-normal-distribution.png?raw=true" width="50%" height="50%"/>
 
 
 
