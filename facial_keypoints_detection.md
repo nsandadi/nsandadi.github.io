@@ -23,5 +23,5 @@ However, there are a few challenges that come with augmentation:
 - Augmentation could increase the number of training images substantially which could raise a storage problem. Keras has a powerful API called ImageDataGenerator that resolves this problem. The generator can generate augmented images from the training images on the fly.
 - Another challenge specific to facial keypoint detection is that the target values or landmarks also needs to change when an image is translated, (i.e.), if the image of a face is shifted by 3 pixels, the landmark coordinates of the eye, nose, etc. also need to be shifted.
 
-### [Project Report](/pdf/w207_Facial_Keypt_Detection.pdf)
+## [Project Report](/pdf/w207_Facial_Keypt_Detection.pdf)
 
