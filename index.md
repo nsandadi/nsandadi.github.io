@@ -10,7 +10,7 @@
 
 ---
 ### [Bay Area Bike Share Analysis](http://example.com/)
-<img src="images/BikeShare.jpg?raw=true"/>
+<img src="images/BikeShare.jpg?raw=true width="300" height="300""/>
 
 ---
 ### [Determinants of Crime in North Carolina](http://example.com/)
