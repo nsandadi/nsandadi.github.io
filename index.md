@@ -6,7 +6,7 @@
 
 ---
 ### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
-<img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="40%" height="40%"/>
+<img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="50%" height="50%"/>
 
 ---
 ### [Bay Area Bike Share Analysis](http://example.com/)
