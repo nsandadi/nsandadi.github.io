@@ -14,7 +14,7 @@
 
 ---
 ### [Determinants of Crime in North Carolina](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true" width="50%" height="50%"/>
+<img src="images/statistical_distribution.png?raw=true" width="50%" height="50%"/>
 
 ---
 
