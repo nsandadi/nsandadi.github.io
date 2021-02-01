@@ -18,5 +18,6 @@ Even if we develop a model that doesn't always predict no departure delay, there
 To combat this, we used SMoTe (Synthetic Minority Oversampling Technique) to balance the dataset. However, it comes with own scalability challenges. We could not make use of existing Python Smote library as the dataset has ~21 million data points in the training set and it became computationally intractable to run SMoTe on such a huge dataset. We implemented a homegrown version of SMoTe using K-nearest neighbors. However, finding K nearest neighbors would mean fitting about 2 million records in memory. We implemented a work around where we first divided the data into 1000 clusters using K-means algorithm and then applied KNN on each cluster in parallel to generate the synthetic data.
 
 ### Reports:
-1. [Project Report] (/pdf/Airline_Delay_Prediction.pdf)
-2. [SMoTe] (/pdf/SMOTE.pdf)
+1.[Addressing research questions on 2018 Anes Pilot Survey](/pdf/Lab2-ComparingMeans.pdf)
+2. [Project Report] (/pdf/Airline_Delay_Prediction.pdf)
+3. [SMoTe] (/pdf/SMOTE.pdf)
