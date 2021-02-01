@@ -2,15 +2,15 @@
 
 ---
 ### [Predicting Airline Departure Delays](/sample_page)
-<img src="images/Delayed.jpg?raw=true" width="300" height="300"/>
+<img src="images/Delayed.jpg?raw=true" width="50%" height="50%"/>
 
 ---
 ### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
-<img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="500" height="200"/>
+<img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="300" height="300"/>
 
 ---
 ### [Bay Area Bike Share Analysis](http://example.com/)
-<img src="images/BikeShare.jpg?raw=true" width="300" height="300"/>
+<img src="images/BikeShare.jpg?raw=true" width="500" height="200"/>
 
 ---
 ### [Determinants of Crime in North Carolina](http://example.com/)
