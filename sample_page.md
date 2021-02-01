@@ -1,8 +1,16 @@
-## This can be your internal website page / project page
+## Airlines Departure Delay Prediction
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Predicting delays helps airports and airlines plan their resources and let passengers plan their travel accurately. If we predict a delay when there is none, airports end up allocating unnecessary resources and airlines end up with dissatisfied customers who missed their flights. If we predict no delays when there is one, it can potentially result in last minute gate changes and other emergency planning for the airlines and airports.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+The core questions : 
+- Given all the information available prior to a flight can we accurately predict the delay? 
+- Additionally, can we identify the likely causes of the delay?
+
+To answer the first question we have to define what constitutes a “delay”. In our problem we defined that a flight is “delayed” if the delay is 30 minutes or more. And to answer the second part of the question, we resorted to our model implementation to give us some useful feedback.
+
+
+
+### 1. Challenges
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,20 +20,3 @@ if (isAwesome){
 }
 ```
 
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
