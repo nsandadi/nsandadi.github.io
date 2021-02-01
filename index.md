@@ -1,8 +1,8 @@
 ## Portfolio
 
 ---
-[Predicting Airline Delays](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Airline Departure Delays](/sample_page)
+<img src="images/Delayed.jpg?raw=true"/>
 
 ---
 [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
