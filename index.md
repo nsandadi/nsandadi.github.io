@@ -5,7 +5,7 @@
 <img src="images/Delayed.jpg?raw=true" width="50%" height="50%"/>
 
 ---
-### [Facial Keypoints Detection](/pdf/sample_presentation.pdf)
+### [Facial Keypoints Detection](/facial_keypoints_detection.md)
 <img src="images/Facial_Keypoints_Kaggle2.png?raw=true" width="50%" height="50%"/>
 
 ---
