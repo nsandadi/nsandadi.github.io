@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-### [Field Experiment: Effect of Descriptive Labels on Sales](/Effect_of_Descriptive_Labels.pdf)
+### [Field Experiment: Effect of Descriptive Labels on Sales](/images/Effect_of_Descriptive_Labels.pdf)
 <img src="images/Food_Experiment.jpeg?raw=true" width="50%" height="50%"/> 
 
 ---
