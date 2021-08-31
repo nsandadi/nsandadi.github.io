@@ -1,9 +1,14 @@
 # Portfolio
 
 ---
+### [Field Experiment: Effect of Descriptive Labels on Sales](/Effect of Descriptive Labels on Unpopular Dishes.pdf)
+<img src="images/Food_Experiment.jpeg?raw=true" width="50%" height="50%"/> 
+
+---
 ### [Balancing Act in Gendered Pronoun Resolution](https://github.com/nsandadi/Coreference-Resolution)
 <img src="images/genderequality.jpeg?raw=true" width="50%" height="50%"/> 
 
+---
 ### [Airline Departure Delay Prediction](/airline_delay_pred.md)
 <img src="images/Delayed.jpg?raw=true" width="50%" height="50%"/>
 
@@ -20,7 +25,6 @@
 <img src="images/Linear_regression.png?raw=true" width="50%" height="50%"/>
 
 ---
-
 ### [Addressing research questions on 2018 Anes Pilot Survey](/pdf/Lab2-ComparingMeans.pdf)
 <img src="images/histogram-normal-distribution.png?raw=true" width="50%" height="50%"/>
 
