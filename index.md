@@ -1,7 +1,7 @@
 # Portfolio
 
 ---
-### [Balancing Act in Gendered Pronoun Resolution] (https://github.com/nsandadi/Coreference-Resolution)
+### [Balancing Act in Gendered Pronoun Resolution](https://github.com/nsandadi/Coreference-Resolution)
 <img src="images/genderequality.jpeg?raw=true" width="50%" height="50%"/> 
 
 ### [Airline Departure Delay Prediction](/airline_delay_pred.md)
